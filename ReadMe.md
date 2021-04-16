@@ -31,3 +31,9 @@ data source:
    - kaggle 
 
 screenshots:
+![Bildschirmfoto 2021-04-16 um 16 50 58](https://user-images.githubusercontent.com/76050281/115077943-2a645680-9eff-11eb-88bc-eff4f2dde5df.png)
+
+screenshots:
+![Bildschirmfoto 2021-04-16 um 16 54 26](https://user-images.githubusercontent.com/76050281/115077955-305a3780-9eff-11eb-9a0d-3e8c6363a295.png)
+
+

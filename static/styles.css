@@ -1,0 +1,30 @@
+
+/* html tag selector */
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 2.5em;
+    margin:auto;
+}
+
+a {
+    color: rgb(0, 0, 0);
+}
+
+/* class selector */
+.container {
+    /* only style elements with class container */
+    max-width: 900px;
+    margin: auto;
+}
+
+.banner-image {
+    width: 70%;
+    
+    /* how to center? */
+    /* margin: auto; */
+}
+
+/* change the container to grayscale when hovering over it 
+.banner-image:hover {
+    filter: grayscale(100%);
+}*/
