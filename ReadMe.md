@@ -1,12 +1,5 @@
-movie_recommendation is a local website where you can enter and rate some movies that you have already seen. Then you can choose between 2 modes(Explorer/Simular). Based on the movies and the mode you selected on the website, some movies are recommended for you.
-In data_into_sql.py a Kaggle data set is uploaded from the hard drive to a local SQL server. The dataset contains Netflix films that have been rated by users.
-functions.py contains all the necessary functions.
-interface.py is the webside where you can enter and rate the movies you already know. By selecting a mode you choose between two different ways to get your recommendation.
-Your entries don't have to be exact. The program finds the title even with spelling mistakes.
-Modes:
-    - Explorer: You will be given a random recommendation that excludes the listing you made, and the      movies have an average rating of at least 2.5
-    - Simular: You will get a recommendation based on the reviews of other users. Your input will be accepted and appended to the existing ratings of the other users. The extended table is used to create a user_user_matrix (spearman correlation). Users with the highest simularity will be used and a recommendation will be calculated based on this.
-After confirming your entry, you will receive 5 recommendations
+movie_recommendation is a local website where you can enter and rate some movies that you have already seen. Then you can choose between 2 modes(Explorer/Simular). Based on the movies and the mode you selected on the website shows you some recommendations as result.
+
 
 data_into_sql.py:
   - read in data
@@ -33,7 +26,7 @@ data source:
 screenshots:
 ![Bildschirmfoto 2021-04-16 um 16 50 58](https://user-images.githubusercontent.com/76050281/115077943-2a645680-9eff-11eb-88bc-eff4f2dde5df.png)
 
-screenshots:
+
 ![Bildschirmfoto 2021-04-16 um 16 54 26](https://user-images.githubusercontent.com/76050281/115077955-305a3780-9eff-11eb-9a0d-3e8c6363a295.png)
 
 
